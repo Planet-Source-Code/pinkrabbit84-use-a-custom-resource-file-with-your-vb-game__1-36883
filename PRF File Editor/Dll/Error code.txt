@@ -1,0 +1,8 @@
+999001 = Bad folder path
+999002 = Bad file path
+999003 = PRFile version mismatch (file is not open)
+999004 = PRFile size info mismatch (file is not open)
+999005 = File does not exist in library(file is not extracted)
+999006 = File can't be writed to destination path(file is not extracted)
+999007 = Destination already exist and overwrite not activated(file is not extracted)
+999008 = Destination file already exist and in use; can't overwrite(file is not extracted)
